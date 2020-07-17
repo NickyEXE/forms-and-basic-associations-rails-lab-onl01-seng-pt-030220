@@ -1,6 +1,6 @@
 # Forms And Basic Associations Rails Lab
 
-# San Dimas High School Football Rules!
+# If you see this it's a good time to tune in
 
 ## Objectives
 
